@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Express TypeScript Refactoring Exercise
 
 This project contains a **deliberately poorly structured** Express.js server written in TypeScript. The entire application is in a single file (`src/index.ts`) with multiple code smells and anti-patterns.
@@ -144,3 +145,6 @@ HTTP Request
 Good luck refactoring!
 
 
+=======
+# web_assignment1
+>>>>>>> 29bf39544c9d6dd09ac590a5f3dad930e4d3e9bb
